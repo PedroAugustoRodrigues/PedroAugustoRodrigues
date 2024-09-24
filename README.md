@@ -11,6 +11,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Vamos nos conectar!
 
-- [LinkedIn](URL do LinkedIn)
+- [LinkedIn](https://www.linkedin.com/in/pedro-augusto-393938302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato!
